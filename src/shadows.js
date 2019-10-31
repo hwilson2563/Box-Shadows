@@ -383,6 +383,11 @@ const shadows = [
     name: "Jira dropdown",
     shadow: "0 4px 8px -2px rgba(9,30,66,0.25), 0 0 1px rgba(9,30,66,0.31)",
     border: "0"
-  },
+  }, 
+  {
+    name: "Blush",
+    shadow: "5px 8px 26px 5px #FF71DE",
+    border: "0"
+  }
 ];
 export default shadows;
